@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Sophies Scene/Sophies Scene.unity
+- path: Assets/Sophies Scene redigeret af milas.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
